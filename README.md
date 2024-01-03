@@ -1,6 +1,4 @@
 
-
-[![MasterHead](https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Pavan Alapati</h1>
 <h3 align="center">Passionate Penetration Tester , Bug Hunter , web3 security enthusiastic</h3>
 <img align="middle" alt="hacking" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQzM3RhY2Rxcmg4eWpmdzJxejdzNzBnMWwwdng3cHIydXM5dXZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif">
