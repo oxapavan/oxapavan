@@ -1,6 +1,4 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4999&pause=1000&color=F75D1B&width=435&lines=Welcome+to+my+cyber+space!   ++++(%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81)" alt="Typing SVG" /></a>
-
 
 [![MasterHead](https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Pavan Alapati</h1>
