@@ -63,21 +63,12 @@
   - Docker
   - VirtualBox
 
-
-<h3 align="left">🌟 Testimonials and Endorsements:</h3>
-
-> "Your dedication to securing our systems has been instrumental in maintaining a strong cybersecurity posture." - [Colleague's Name]
-
 <h3 align="left">🏆 Certifications and Awards:</h3>
 
-- **Certified Information Systems Security Professional (CISSP)**
-- **Certified Ethical Hacker (CEH)**
-- **[Any Other Relevant Certifications]**
-
-<h3 align="left">🧑‍💻 Code Snippets and Examples:</h3>
-
-- [Snippet 1](Link to Snippet 1): Brief description
-- [Snippet 2](Link to Snippet 2): Brief description
+- Certified Cybersecuirty ( CC )
+- Certified Appsec Practitioner (CAP)
+- Certified Network Security Practitioner (CNSP)
+- AWS(CCSP-AWS)
 
 <h3 align="left">💭 Quotes and Inspirations:</h3>
 
@@ -85,27 +76,28 @@
 
 <h3 align="left">🤓 Fun Facts and Trivia:</h3>
 
-- I once found and responsibly disclosed a critical vulnerability in a widely used application.
+- Coffee Connoisseur
+- OSINT Marathoner
+- Bug Bounty Enthusiast
 
 <h3 align="left">🤝 Contributions to the Community:</h3>
-
 - Organized and hosted a Capture The Flag (CTF) competition for local cybersecurity enthusiasts.
+- Volunteer
+- Community Webinars
+- Local Meetups
+- Campus Cybersecurity Awareness Campaign
+- Open Source Contributor
 
 <h3 align="left">💡 Volunteer Work and Activism:</h3>
 
-- Volunteer at [Cybersecurity Community/Organization]
-- Advocate for cybersecurity awareness in schools and local communities.
+- Volunteer at OWSAP Delhi
+- cybersecurity awareness in schools and local communities.
 
 <h3 align="left">🎮 Hobbies and Interests:</h3>
 
-- Exploring new cybersecurity challenges on platforms like Hack The Box.
+- Exploring new cybersecurity challenges on platforms like Hack The Box , Tryhackme.
 - Reading cybersecurity-related books and blogs.
-- [Any Other Hobbies]
-
-<h3 align="left">🗺 Travel and Adventures:</h3>
-
-- Combining work and travel to attend cybersecurity conferences worldwide.
-- [Any Other Travel Experiences]
+- CTF Enthusiast
 
 <h3 align="left">💻 Open-Source Contributions:</h3>
 
