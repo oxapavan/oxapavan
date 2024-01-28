@@ -13,25 +13,18 @@
 - **Network Security**
 - **Cloud Security**
 
-
-<h3 align="left">💻 Open-Source Contributions:</h3>
-
-[![https://Pavan-Alapati.github.io/](https://custom-icon-badges.herokuapp.com/badge/-Open%20Source%20Contributions-green?style=for-the-badge&logoColor=white&logo=github)](https://Pavan-Alapati.github.io/)
-
-<h3 align="left">📝 Blog Posts and Articles:</h3>
-
-[![Blog Posts and Articles](https://custom-icon-badges.herokuapp.com/badge/-Blog%20Posts%20and%20Articles-blue?style=for-the-badge&logoColor=white&logo=medium)](https://medium.com/@yourusername)
-
 <h3 align="left">🚀 Projects and Repositories:</h3>
 
-- [Project 1](Link to Project 1): Brief description
-- [Project 2](Link to Project 2): Brief description
+- QuerySleuth - Automated google dorking tool for pentesters' OSINT 
+- Reconme - Automated Web Application Recon Tool 
+- CyberArmor - XSS , SQL , SSRF , RCE , LFI , File-Upload
+- SubNinja - Sub Domain Scrapper 
+- Malware - Development 
 
 <h3 align="left">💼 Education and Work Experience:</h3>
 
-- **Current Position:** Cybersecurity Analyst at [Company Name]
-- **Previous Position:** Security Consultant at [Previous Company]
-- **Education:** [Your Degree], [University]
+- **Current Position:** Cybersecurity Analyst at REDBOT Security
+- **Education:** Computer Science ( Cyber Security && Crypto Currency ), Kl University ( 2 Year )
 
 <h3 align="left">📫 Contact Information:</h3>
 
@@ -41,15 +34,35 @@
 
 <h3 align="left">💬 Social Media Profiles:</h3>
 
-- [LinkedIn] https://www.linkedin.com/in/pavan-alapati-b15459248/
+- [LinkedIn](https://www.linkedin.com/in/pavan-alapati-b15459248/)
 - [Twitter](https://twitter.com/apavxn)
 - [Medium](https://medium.com/@0xpavan)
 
 <h3 align="left">🛠 Programming Languages and Tools:</h3>
 
-- **Programming Languages:** Python, Bash
-- **Tools:** Metasploit, Wireshark, Nmap, Burp Suite
-- **Platforms:** AWS, Azure
+- **Programming Languages:**
+  - Python
+  - C
+  - PowerShell
+
+- **Tools:**
+  - Wireshark
+  - Nmap
+  - Metasploit
+  - Burp Suite
+  - Snort
+  - OSSEC
+  - Aircrack-ng
+  - Hashcat
+  - YARA
+
+- **Platforms:**
+  - Kali Linux
+  - Parrot Security OS
+  - Windows Subsystem for Linux (WSL)
+  - Docker
+  - VirtualBox
+
 
 <h3 align="left">🌟 Testimonials and Endorsements:</h3>
 
@@ -94,4 +107,11 @@
 - Combining work and travel to attend cybersecurity conferences worldwide.
 - [Any Other Travel Experiences]
 
-<!-- Add more sections as needed -->
+<h3 align="left">💻 Open-Source Contributions:</h3>
+
+[![https://Pavan-Alapati.github.io/](https://custom-icon-badges.herokuapp.com/badge/-Open%20Source%20Contributions-green?style=for-the-badge&logoColor=white&logo=github)](https://Pavan-Alapati.github.io/)
+
+<h3 align="left">📝 Blog Posts and Articles:</h3>
+
+[![Blog Posts and Articles](https://custom-icon-badges.herokuapp.com/badge/-Blog%20Posts%20and%20Articles-blue?style=for-the-badge&logoColor=white&logo=medium)](https://medium.com/@yourusername)
+
