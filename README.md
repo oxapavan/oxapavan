@@ -1,6 +1,6 @@
 <h3 align="left">🔭 About Me:</h3>
 
-👋 Hi, I'm [Your Name], a dedicated cybersecurity professional with a passion for securing digital landscapes. I specialize in penetration testing, vulnerability assessments, and ensuring robust security postures for organizations.
+👋 Hi, I'm Pavan Alapati, a dedicated cybersecurity professional with a passion for securing digital landscapes. I specialize in penetration testing, vulnerability assessments,Network Security, Malware Development and ensuring robust security postures for organizations.
 
 <h3 align="left">🌱 Skills and Expertise:</h3>
 
@@ -8,23 +8,19 @@
 - **Vulnerability Management**
 - **Incident Response**
 - **Threat Intelligence**
+- **Malware Development**
 - **Web Application Security**
 - **Network Security**
 - **Cloud Security**
-- **Cryptography**
-- **Security Architecture**
+
 
 <h3 align="left">💻 Open-Source Contributions:</h3>
 
-[![Open Source Contributions](https://custom-icon-badges.herokuapp.com/badge/-Open%20Source%20Contributions-green?style=for-the-badge&logoColor=white&logo=github)](https://github.com/yourusername?tab=repositories)
+[![https://Pavan-Alapati.github.io/](https://custom-icon-badges.herokuapp.com/badge/-Open%20Source%20Contributions-green?style=for-the-badge&logoColor=white&logo=github)](https://Pavan-Alapati.github.io/)
 
 <h3 align="left">📝 Blog Posts and Articles:</h3>
 
 [![Blog Posts and Articles](https://custom-icon-badges.herokuapp.com/badge/-Blog%20Posts%20and%20Articles-blue?style=for-the-badge&logoColor=white&logo=medium)](https://medium.com/@yourusername)
-
-<h3 align="left">🗣 Presentations and Talks:</h3>
-
-[![Presentations and Talks](https://custom-icon-badges.herokuapp.com/badge/-Presentations%20and%20Talks-red?style=for-the-badge&logoColor=white&logo=speakerdeck)](https://speakerdeck.com/yourusername)
 
 <h3 align="left">🚀 Projects and Repositories:</h3>
 
@@ -39,15 +35,15 @@
 
 <h3 align="left">📫 Contact Information:</h3>
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/yourusername)
+- **Email:** oxapavan@gmail.com || AngryBird9999@proton.me
+- **LinkedIn:** (https://www.linkedin.com/in/pavan-alapati-b15459248/)
+- **Twitter:** (https://twitter.com/apavxn)
 
 <h3 align="left">💬 Social Media Profiles:</h3>
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Medium](https://medium.com/@yourusername)
+- [LinkedIn] https://www.linkedin.com/in/pavan-alapati-b15459248/
+- [Twitter](https://twitter.com/apavxn)
+- [Medium](https://medium.com/@0xpavan)
 
 <h3 align="left">🛠 Programming Languages and Tools:</h3>
 
@@ -64,10 +60,6 @@
 - **Certified Information Systems Security Professional (CISSP)**
 - **Certified Ethical Hacker (CEH)**
 - **[Any Other Relevant Certifications]**
-
-<h3 align="left">📊 GitHub Stats and Achievements:</h3>
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Alapati&show_icons=true&theme=dark)
 
 <h3 align="left">🧑‍💻 Code Snippets and Examples:</h3>
 
