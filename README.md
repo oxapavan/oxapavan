@@ -67,7 +67,7 @@
 
 <h3 align="left">📊 GitHub Stats and Achievements:</h3>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Alapati&show_icons=true&theme=dark)
 
 <h3 align="left">🧑‍💻 Code Snippets and Examples:</h3>
 
