@@ -1,48 +1,105 @@
+<h3 align="left">🔭 About Me:</h3>
 
-<h1 align="center">Hi 👋, I'm Pavan Alapati</h1>
-<h3 align="center">Passionate Penetration Tester , Bug Hunter , web3 security enthusiastic</h3>
-<img align="middle" alt="hacking" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQzM3RhY2Rxcmg4eWpmdzJxejdzNzBnMWwwdng3cHIydXM5dXZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif">
+👋 Hi, I'm [Your Name], a dedicated cybersecurity professional with a passion for securing digital landscapes. I specialize in penetration testing, vulnerability assessments, and ensuring robust security postures for organizations.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angrybird0x01&label=Profile%20views&color=0e75b6&style=flat" alt="angrybird0x01" /> </p>
+<h3 align="left">🌱 Skills and Expertise:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angrybird0x01" alt="angrybird0x01" /></a> </p>
+- **Penetration Testing**
+- **Vulnerability Management**
+- **Incident Response**
+- **Threat Intelligence**
+- **Web Application Security**
+- **Network Security**
+- **Cloud Security**
+- **Cryptography**
+- **Security Architecture**
 
-- 🔭 I’m currently working as intern in **QuillAuidts**
+<h3 align="left">💻 Open-Source Contributions:</h3>
 
-- 🌱 I’m currently learning **Web3 in depeer**
+[![Open Source Contributions](https://custom-icon-badges.herokuapp.com/badge/-Open%20Source%20Contributions-green?style=for-the-badge&logoColor=white&logo=github)](https://github.com/yourusername?tab=repositories)
 
-- 👯 I’m looking to collaborate on **web3 security( Audits ) projects , Penetration Testing programs**
+<h3 align="left">📝 Blog Posts and Articles:</h3>
 
-- 👨‍💻 My Persional site [https://angrybird0x01.github.io/pavan/](https://angrybird0x01.github.io/pavan/)
+[![Blog Posts and Articles](https://custom-icon-badges.herokuapp.com/badge/-Blog%20Posts%20and%20Articles-blue?style=for-the-badge&logoColor=white&logo=medium)](https://medium.com/@yourusername)
 
-- 💬 Ask me about **Cybersecurity, Cryptography, CTFs, Linux, Networking , solidity**
+<h3 align="left">🗣 Presentations and Talks:</h3>
 
-- 📫 How to reach me **pavanalapati8.24@gmail.com AngryBird9999@proton.me**
+[![Presentations and Talks](https://custom-icon-badges.herokuapp.com/badge/-Presentations%20and%20Talks-red?style=for-the-badge&logoColor=white&logo=speakerdeck)](https://speakerdeck.com/yourusername)
 
-- ⚡ Fun facts about me **More into exploiting things 😁**
+<h3 align="left">🚀 Projects and Repositories:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/apavxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apavxn" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/pavan-alapati-b15459248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-alapati-b15459248/" height="30" width="40" /></a>
+- [Project 1](Link to Project 1): Brief description
+- [Project 2](Link to Project 2): Brief description
 
-<a href="https://instagram.com/_x.root_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x.root_" height="30" width="40" /></a>
+<h3 align="left">💼 Education and Work Experience:</h3>
 
-<a href="https://medium.com/@angrybird0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@angrybird0x01" height="30" width="40" /></a>
+- **Current Position:** Cybersecurity Analyst at [Company Name]
+- **Previous Position:** Security Consultant at [Previous Company]
+- **Education:** [Your Degree], [University]
 
-<a href="https://www.hackerrank.com/h2200031028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2200031028" height="30" width="40" /></a>
+<h3 align="left">📫 Contact Information:</h3>
 
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- **Twitter:** [Your Twitter Handle](https://twitter.com/yourusername)
 
-<a href="https://discord.gg/angrybird3025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="angrybird3025" height="30" width="40" /></a>
+<h3 align="left">💬 Social Media Profiles:</h3>
 
-</p>
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Medium](https://medium.com/@yourusername)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠 Programming Languages and Tools:</h3>
 
+- **Programming Languages:** Python, Bash
+- **Tools:** Metasploit, Wireshark, Nmap, Burp Suite
+- **Platforms:** AWS, Azure
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/AngryBird0x01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AngryBird0x01" /></a></p><br><br>
+<h3 align="left">🌟 Testimonials and Endorsements:</h3>
 
+> "Your dedication to securing our systems has been instrumental in maintaining a strong cybersecurity posture." - [Colleague's Name]
 
+<h3 align="left">🏆 Certifications and Awards:</h3>
+
+- **Certified Information Systems Security Professional (CISSP)**
+- **Certified Ethical Hacker (CEH)**
+- **[Any Other Relevant Certifications]**
+
+<h3 align="left">📊 GitHub Stats and Achievements:</h3>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+<h3 align="left">🧑‍💻 Code Snippets and Examples:</h3>
+
+- [Snippet 1](Link to Snippet 1): Brief description
+- [Snippet 2](Link to Snippet 2): Brief description
+
+<h3 align="left">💭 Quotes and Inspirations:</h3>
+
+> "In cybersecurity, the best defense is a proactive offense." - Anonymous
+
+<h3 align="left">🤓 Fun Facts and Trivia:</h3>
+
+- I once found and responsibly disclosed a critical vulnerability in a widely used application.
+
+<h3 align="left">🤝 Contributions to the Community:</h3>
+
+- Organized and hosted a Capture The Flag (CTF) competition for local cybersecurity enthusiasts.
+
+<h3 align="left">💡 Volunteer Work and Activism:</h3>
+
+- Volunteer at [Cybersecurity Community/Organization]
+- Advocate for cybersecurity awareness in schools and local communities.
+
+<h3 align="left">🎮 Hobbies and Interests:</h3>
+
+- Exploring new cybersecurity challenges on platforms like Hack The Box.
+- Reading cybersecurity-related books and blogs.
+- [Any Other Hobbies]
+
+<h3 align="left">🗺 Travel and Adventures:</h3>
+
+- Combining work and travel to attend cybersecurity conferences worldwide.
+- [Any Other Travel Experiences]
+
+<!-- Add more sections as needed -->
