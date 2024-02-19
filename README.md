@@ -103,7 +103,3 @@
 
 [![https://Pavan-Alapati.github.io/](https://custom-icon-badges.herokuapp.com/badge/-Open%20Source%20Contributions-green?style=for-the-badge&logoColor=white&logo=github)](https://Pavan-Alapati.github.io/)
 
-<h3 align="left">📝 Blog Posts and Articles:</h3>
-
-[![Blog Posts and Articles](https://custom-icon-badges.herokuapp.com/badge/-Blog%20Posts%20and%20Articles-blue?style=for-the-badge&logoColor=white&logo=medium)](https://medium.com/@yourusername)
-
