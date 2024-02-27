@@ -23,6 +23,6 @@
 - 
 <h3 align="left">📫 Contact Information:</h3>
 
-- **Email:** oxapavan@gmail.com || AngryBird9999@proton.me
+- **Email:** oxapavan@gmail.com || pavanalapati8.24@gmail.com
 - **LinkedIn:** (https://www.linkedin.com/in/pavan-alapati-b15459248/)
 - **Twitter:** (https://twitter.com/apavxn),
